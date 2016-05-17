@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "E6AC6FF11CE6E557004E29E0"
-               BuildableName = "WeatherApp.app"
-               BlueprintName = "WeatherApp"
-               ReferencedContainer = "container:WeatherApp.xcodeproj">
+               BuildableName = "SkyCast.app"
+               BlueprintName = "SkyCast"
+               ReferencedContainer = "container:SkyCast.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "E6AC70081CE6E558004E29E0"
-               BuildableName = "WeatherAppTests.xctest"
-               BlueprintName = "WeatherAppTests"
-               ReferencedContainer = "container:WeatherApp.xcodeproj">
+               BuildableName = "SkyCast.xctest"
+               BlueprintName = "SkyCastTests"
+               ReferencedContainer = "container:SkyCast.xcodeproj">
             </BuildableReference>
          </TestableReference>
          <TestableReference
@@ -43,9 +43,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "E6AC70131CE6E558004E29E0"
-               BuildableName = "WeatherAppUITests.xctest"
-               BlueprintName = "WeatherAppUITests"
-               ReferencedContainer = "container:WeatherApp.xcodeproj">
+               BuildableName = "SkyCast.xctest"
+               BlueprintName = "SkyCastUITests"
+               ReferencedContainer = "container:SkyCast.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -53,9 +53,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "E6AC6FF11CE6E557004E29E0"
-            BuildableName = "WeatherApp.app"
-            BlueprintName = "WeatherApp"
-            ReferencedContainer = "container:WeatherApp.xcodeproj">
+            BuildableName = "SkyCast.app"
+            BlueprintName = "SkyCast"
+            ReferencedContainer = "container:SkyCast.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -76,9 +76,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "E6AC6FF11CE6E557004E29E0"
-            BuildableName = "WeatherApp.app"
-            BlueprintName = "WeatherApp"
-            ReferencedContainer = "container:WeatherApp.xcodeproj">
+            BuildableName = "SkyCast.app"
+            BlueprintName = "SkyCast"
+            ReferencedContainer = "container:SkyCast.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -95,9 +95,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "E6AC6FF11CE6E557004E29E0"
-            BuildableName = "WeatherApp.app"
-            BlueprintName = "WeatherApp"
-            ReferencedContainer = "container:WeatherApp.xcodeproj">
+            BuildableName = "SkyCast.app"
+            BlueprintName = "SkyCast"
+            ReferencedContainer = "container:SkyCast.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
